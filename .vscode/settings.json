@@ -1,0 +1,10 @@
+{
+    "workbench.tree.indent": 24,
+    "editor.suggestFontSize": 0,
+    "screencastMode.fontSize": 56,
+    "screencastMode.mouseIndicatorSize": 20,
+    "explorer.openEditors.minVisible": 0,
+    "scm.inputFontSize": 13,
+    "scm.repositories.visible": 10,
+    "terminal.integrated.fontSize": 25
+}
